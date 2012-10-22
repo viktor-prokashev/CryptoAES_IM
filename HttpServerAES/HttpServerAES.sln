@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServerAES", "HttpServerAES\HttpServerAES.csproj", "{7BC33250-D01A-4BA5-B925-1DD2F701426F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC33250-D01A-4BA5-B925-1DD2F701426F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC33250-D01A-4BA5-B925-1DD2F701426F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC33250-D01A-4BA5-B925-1DD2F701426F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC33250-D01A-4BA5-B925-1DD2F701426F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
